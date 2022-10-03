@@ -72,10 +72,11 @@ h6 {
 #signin .text-input {
     margin-bottom: 1.3rem;
     width: 100%;
-    border-radius: 2px;
+    border-radius: 5px;
     background: #181818;
     border: 1px solid #555;
-    padding: 0.5rem 1rem;
+    color: whitesmoke;
+    padding: 1rem 1rem;
     line-height: 1.3rem;
 }
 
